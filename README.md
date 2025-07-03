@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 What I’m Up To:<br>Currently pursuing a degree in Computer Science<br>Learning technologies like React and Spring to expand my portfolio<br>Competing in UIL Computer Science & leading as club founder<br>Always exploring new tools to solve real-world problems<br><br>🙋‍♂️ About Me<br>Passionate about software engineering, problem-solving, and clean code<br>Interested in AI, backend development, and full-stack apps<br>Actively volunteering in my community and leading tech teams<br>
+🧑‍💻 What I’m Up To:<br>Currently pursuing a degree in Computer Science<br>Learning technologies like React and SpringBoot to expand my portfolio<br>Competing in UIL Computer Science & leading as club founder<br>Always exploring new tools to solve real-world problems<br><br>🙋‍♂️ More About Me:<br>Passionate about software engineering, problem-solving, and clean code<br>Interested in AI, backend development, and full-stack apps<br>Actively volunteering in my community and leading tech teams<br>
 
 
 # 🌐 Socials:
